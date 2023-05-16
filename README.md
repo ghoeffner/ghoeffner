@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey! ;-) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghoeffner&rank=-C,-B,-UNKNOWN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ghoeffner/ghoeffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
